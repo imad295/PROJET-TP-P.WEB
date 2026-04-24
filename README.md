@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Gestion Scolarité USTHB
 
 ## Description du projet
@@ -139,3 +140,7 @@ Application web complète de gestion de scolarité pour la Faculté d'Informatiq
 ---
 
 © 2025-2026 USTHB - Faculté d'Informatique. Tous droits réservés.
+=======
+# PROJET-TP-P.WEB
+Conception et développement d’une application Web de gestion de la scolarité (PHP&amp;MySQL). 
+>>>>>>> f2ce02e9d03b58292e85ab7e8918d4b9a3582eb5
